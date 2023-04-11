@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu2"
+        android:title="Home"
+        android:icon="@drawable/home" />
+    <item
+        android:id="@+id/konsul"
+        android:title="Riwayar Konsultasi"
+        android:icon="@drawable/principle"/>
+    <item
+        android:id="@+id/reminderfr"
+        android:title="Pengingat"
+        android:icon="@drawable/reminders"/>
+</menu>

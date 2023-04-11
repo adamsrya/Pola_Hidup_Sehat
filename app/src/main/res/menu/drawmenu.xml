@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/infoakun"
+        android:icon="@drawable/user"
+        android:title="Informasi Akun"
+        />
+    <item
+        android:id="@+id/bantuan"
+        android:icon="@drawable/support"
+        android:title="Bantuan"
+        />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/information"
+        android:title="Informasi Aplikasi"
+        />
+    <item
+        android:id="@+id/keluar"
+        android:icon="@drawable/logout"
+        android:title="Keluar"
+        />
+</group>
+</menu>

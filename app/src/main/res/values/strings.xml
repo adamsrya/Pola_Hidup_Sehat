@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Pola Hidup Sehat</string>
+    <string name="konsultasi">Konsultasi</string>
+    <string name="pola_hidup_sehat">Pola Hidup Sehat</string>
+    <string name="pola_makan">Pola Makan</string>
+    <string name="pengingat">Pengingat</string>
+    <string name="pola_olahraga">Pola Olahraga</string>
+    <string name="get_better_life_for_future">Get Better Life for Future</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="pantau_kesehatan_anda">Pantau kesehatan anda!</string>
+    <string name="silahkan_login_terlebih_dahulu">Silahkan login terlebih dahulu</string>
+
+
+    <string name="pengingat_anda_tidak_ditemukan">Pengingat anda tidak ditemukan</string>
+    <string name="anda_lupa_login_silahkan_login_terlebih_dahulu">Anda lupa login,silahkan login terlebih dahulu</string>
+    <string name="password">Password</string>
+    <string name="email_atau_username">Email atau Username</string>
+    <string name="login">Login</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="pria">Pria</string>
+    <string name="alamat">Alamat</string>
+    <string name="wanita">Wanita</string>
+    <string name="username">Username</string>
+    <string name="emailanda_example_com">Emailanda@example.com</string>
+
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="belum_memiliki_akun">Belum memiliki akun?</string>
+    <string name="todo">TODO</string>
+
+    <string name="navigation_open">open navigation drawer</string>
+    <string name="navigation_close">close navigation drawer</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="sehat_pangkal_bahagia">Sehat Pangkal Bahagia</string>
+    <string name="kadar_gula_darah">Kadar Gula Darah</string>
+    <string name="kadar_kolestrol">Kadar Kolestrol</string>
+    <string name="kadar_asam_urat">Kadar Asam Urat</string>
+    <string name="masukkan_kadar_gula_terakhir_anda">Masukkan kadar gula terakhir anda</string>
+    <string name="masukkan_kadar_kolestrol_terakhir_anda">Masukkan kadar kolestrol terakhir anda</string>
+    <string name="masukkan_kadar_asam_urat_terakhir_anda">Masukkan kadar asam urat terakhir anda</string>
+    <string name="hasil_konsultasi">Hasil Konsultasi:</string>
+    <string name="masukkan_ke_pengingat">Masukkan ke pengingat</string>
+    <string name="pola_olahraga_yang_dianjurkan">Pola Olahraga yang dianjurkan</string>
+    <string name="kembali_ke_menu_utama">Kembali ke menu utama</string>
+    <string name="pola_makan_yang_dianjurkan">Pola Makan yang dianjurkan:</string>
+    <string name="riwayat_konsultasi">Riwayat Konsultasi</string>
+
+
+</resources>
